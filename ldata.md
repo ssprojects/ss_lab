@@ -16,7 +16,10 @@ Deep learning models are data hungry and annotating large datasets is a pain-sta
  * Training Data Augmentation for Code-Mixed Translation \
    In NAACL 2021, with Abhirut Gupta, Aditya Vavre, Sunita Sarawagi \
    \[[Paper](https://arxiv.org/abs/2103.03142)\] \[[Data](https://github.com/shruikan20/Spoken-Tutorial-Dataset)\]
+ * Black-box Adaptation of ASR for Accented Speech \
+   In Interspeech 2020, Kartik Khandelwal, Preethi Jyothi, Abhijeet Awasthi, Sunita Sarawagi \
+   \[[Paper](https://arxiv.org/pdf/2006.13519.pdf)\] \[[Code](https://github.com/Kartik14/FineMerge)\]
  * Learning from Rules Generalizing Labeled Exemplars \
    In ICLR 2020 (**Spotlight**), with Abhijeet Awasthi, Sabyasachi Ghosh, Rasna Goyal, and Sunita Sarawagi \
-   \[[Paper](https://arxiv.org/abs/2004.06025)\] \[[Code and Data](https://github.com/awasthiabhijeet/Learning-From-Rules)\] \[[Talk](https://youtu.be/TQfq4YdqG3k)\]
+   \[[Paper](https://arxiv.org/abs/2004.06025)\] \[[Code and data](https://github.com/awasthiabhijeet/Learning-From-Rules)\] \[[Talk](https://youtu.be/TQfq4YdqG3k)\]
 
