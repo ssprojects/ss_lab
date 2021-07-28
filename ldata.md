@@ -13,7 +13,10 @@ Deep learning models are data hungry and annotating large datasets is a pain-sta
  * Error-driven Fixed-Budget ASR Personalization for Accented Speakers \
    In ICASSP 2021, with Abhijeet Awasthi, Aman Kansal, Sunita Sarawagi, and Preethi Jyothi\
    \[[Paper](https://arxiv.org/abs/2103.03142)\] \[[Code](https://github.com/awasthiabhijeet/Error-Driven-ASR-Personalization)\] \[[Talk](https://youtu.be/oh3FHFz_5X0)\]
+ * Training Data Augmentation for Code-Mixed Translation \
+   In NAACL 2021, with Abhirut Gupta, Aditya Vavre, Sunita Sarawagi \
+   \[[Paper](https://arxiv.org/abs/2103.03142)\] \[[Data](https://github.com/shruikan20/Spoken-Tutorial-Dataset)\]
  * Learning from Rules Generalizing Labeled Exemplars \
-   In ICLR 2020 (*Spotlight*), with Abhijeet Awasthi, Sabyasachi Ghosh, Rasna Goyal, and Sunita Sarawagi \
-   \[[Paper](https://arxiv.org/abs/2004.06025)\] \[[Code](https://github.com/awasthiabhijeet/Learning-From-Rules)\] \[[Talk](https://youtu.be/TQfq4YdqG3k)\]
+   In ICLR 2020 (**Spotlight**), with Abhijeet Awasthi, Sabyasachi Ghosh, Rasna Goyal, and Sunita Sarawagi \
+   \[[Paper](https://arxiv.org/abs/2004.06025)\] \[[Code and Data](https://github.com/awasthiabhijeet/Learning-From-Rules)\] \[[Talk](https://youtu.be/TQfq4YdqG3k)\]
 
