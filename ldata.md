@@ -4,7 +4,7 @@ title: Learning from limited labeled data
 ---
 
 # Learning from limited labeled data
-Deep learning models are data hungry and annotating large datasets is a pain-staking process. One of the primary focus of our group is to develop methods to enable Deep Learning for Speech and Natural Language processing in low resource and limited labeled data settings. 
+Despite several recent advancements is unsupervised-learning, the performance of modern day deep learning methods still relies heavily on the size of labeled datasets. However, large-scale dataset annotation is both monotonous and painstaking. One of the focus of our group is to enable Deep Learning for various structured prediction tasks related to Speech and Natural Language processing in low resource and data-constrained settings. Our research explores better ways of harnessing human supervision beyond simply collecting gold labels ([ICLR 2020](https://openreview.net/forum?id=SkeuexBtDr), [AAAI 2020](https://arxiv.org/pdf/1911.09860.pdf)), targeted and efficient data collection ([ICASSP 2021](https://arxiv.org/abs/2103.03142)) and adaptation of ML models trained in data-abundant domains to data-constrained domains ([ACL 2021](https://arxiv.org/pdf/2106.03958.pdf), [NAACL 2021](https://arxiv.org/abs/2103.03142),  [Interspeech 2020](https://arxiv.org/pdf/2006.13519.pdf))   
 
 # Publications:
  * Exploiting Language Relatedness for Low Web-Resource Language Model Adaptation: An Indic Languages Study \
@@ -21,7 +21,7 @@ Deep learning models are data hungry and annotating large datasets is a pain-sta
    \[[Paper](https://arxiv.org/pdf/2006.13519.pdf)\] \[[Code](https://github.com/Kartik14/FineMerge)\]
  * Learning from Rules Generalizing Labeled Exemplars \
    In ICLR 2020 (**Spotlight**), with Abhijeet Awasthi, Sabyasachi Ghosh, Rasna Goyal, and Sunita Sarawagi \
-   \[[Paper](https://arxiv.org/abs/2004.06025)\] \[[Code and data](https://github.com/awasthiabhijeet/Learning-From-Rules)\] \[[Talk 📢](https://youtu.be/TQfq4YdqG3k)\]
+   \[[Paper](https://openreview.net/forum?id=SkeuexBtDr)\] \[[Code and data](https://github.com/awasthiabhijeet/Learning-From-Rules)\] \[[Talk 📢](https://youtu.be/TQfq4YdqG3k)\]
  * Data Programming using Continuous and Quality-Guided Labeling Functions \
    In AAAI 2020, with Oishik Chatterjee, Ganesh Ramakrishnan, Sunita Sarawagi \
    \[[Paper](https://arxiv.org/pdf/1911.09860.pdf)\] \[[Code and data](https://github.com/oishik75/CAGE)\]
