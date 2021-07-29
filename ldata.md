@@ -31,5 +31,6 @@ Despite several recent advancements is unsupervised-learning, the performance of
 
 # Collaborators
  * [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)
+ * [Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/)
  * [Partha Pratim Talukdar](http://talukdar.net/)
  * [Abhirut Gupta](https://scholar.google.com/citations?user=Vis091UAAAAJ&hl=en)
