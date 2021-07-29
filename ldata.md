@@ -28,3 +28,7 @@ Despite several recent advancements is unsupervised-learning, the performance of
  * Labeled Memory Networks for Online Model Adaptation \
    In AAAI 2018, with Shiv Shankar and Sunita Sarawagi \
    \[[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17141/16672)\]
+
+# Collaborators
+ * [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/)
+ * [Partha Pratim Talukdar](http://talukdar.net/)
