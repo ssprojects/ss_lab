@@ -5,7 +5,7 @@ title: Team
 
 # PI
 
-* **[Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/)**
+**[Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/)**
 
 ## PhD Students
 
