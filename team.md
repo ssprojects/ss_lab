@@ -3,7 +3,7 @@ layout: default
 title: Team
 ---
 
-# Faculty
+# PI
 
 * **[Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/)**
 
