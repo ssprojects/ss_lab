@@ -3,8 +3,6 @@ layout: default
 title: Team
 ---
 
-# PI
-
 **[Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/)**
 
 ## PhD Students
@@ -18,8 +16,8 @@ title: Team
 * Sandeep Parihar M.Tech 2020-2022
 * Vaidehi Patil (B.Tech. + M.Tech) 2017-2022
 
-# Past Members
-* Shiv Shankar (RA -> PhD, UMass)
+## Past Members
+* Shiv Shankar (RA -> UMass)
 * Aviral Kumar (B.Tech. -> UCB)
 * Sahil Shah (B.Tech. -> Tower Research)
 * Siddhant Garg (B.Tech. -> Amazon)
