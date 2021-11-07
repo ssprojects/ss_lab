@@ -21,3 +21,5 @@ title: Team
 * Aviral Kumar (B.Tech. -> UCB)
 * Sahil Shah (B.Tech. -> Tower Research)
 * Siddhant Garg (B.Tech. -> Amazon)
+* Parikshit Bansal (B.Tech. -> MSR India)
+* Kamlesh Marathe (M.Tech. -> Dream11)
