@@ -17,9 +17,13 @@ title: Team
 * Vaidehi Patil (B.Tech. + M.Tech.) 2017-2022
 
 ## Past Members
+*Random order*
+
 * Shiv Shankar (RA -> UMass)
 * Aviral Kumar (B.Tech. -> UCB)
 * Sahil Shah (B.Tech. -> Tower Research)
 * Siddhant Garg (B.Tech. -> Amazon)
 * Parikshit Bansal (B.Tech. -> MSR India)
 * Kamlesh Marathe (M.Tech. -> Dream11)
+* Anshul Naserey (B.Tech. -> Google Research India)
+* Soumyadeep Thakur (M.Tech. -> Microsoft)
