@@ -3,4 +3,4 @@ layout: default
 title: Publications
 ---
 
-Please see this [link](https://www.cse.iitb.ac.in/~sunita/pubs.html).
+Exhaustive set of publications from our lab can be found at this [link](https://www.cse.iitb.ac.in/~sunita/pubs.html).
