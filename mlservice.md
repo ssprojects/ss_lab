@@ -3,7 +3,7 @@ layout: default
 title: Machine Learning as a Service
 ---
 
-With ever increasing size of State-of-the-art Machine Learning models, we see greater reliance on ML models hosted as a service through an API. 
+With the ever increasing size of State-of-the-art Machine Learning models, we see greater reliance on ML models hosted as a service through an API. 
 Toward the objective of rendering service APIs that can cater to a wider population of clients, we conduct research on:   
 (1) training algorithms that enable broader generalization--domain generalization\[[NeurIPS21a](#neurips21a), [ICML20](#icml20), [ICLR18](#iclr18)\].  
 (2) evaluation data-structures that can allow the query of service's performance on the client data \[[NeurIPS21b](#neurips21b)\].   
