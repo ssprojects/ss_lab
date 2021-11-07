@@ -13,8 +13,8 @@ title: Team
 * [N Lokesh](https://scholar.google.co.in/citations?user=fbu9Tc4AAAAJ&hl=en)
 
 ## M.Tech or B.Tech. Students
-* Sandeep Parihar M.Tech 2020-2022
-* Vaidehi Patil (B.Tech. + M.Tech) 2017-2022
+* Sandeep Parihar (M.Tech.) 2020-2022
+* Vaidehi Patil (B.Tech. + M.Tech.) 2017-2022
 
 ## Past Members
 * Shiv Shankar (RA -> UMass)
