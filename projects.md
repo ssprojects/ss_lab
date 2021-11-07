@@ -8,8 +8,8 @@ title: Introduction
 More information can be found in the following theme specific pages.
 
 * **[Time](./time.html)**:  
-* **[Domain](./domain.html)**: Machine Trained models stumble when input domain changes; for example new accent, language dialect, vernacular for an automatic speech recognition system. How do we generalize, adapt to new domains? 
-* **[ML-service](./mlservice.html)**: How can we make Machine Learning (ML) services more useful? Parameter update free on-the-fly adaptation to new domains. Human-in-loop accuracy guarantees. 
+* **[Domain](./domain.html)**: Machine Learning models under-perform when input domain changes; some examples of domain drift for an automatic speech recognition system are: new or unknown accent, dialect or vernacular. How do we generalize or adapt to new domains? 
+* **[ML-service](./mlservice.html)**: ML Services are trained with one-size-fits-all policy and are deployed in the wild. How can we improve the generalizability of the service?
 * **[Limited Data](./ldata.html)**:  
 
 # Past Projects
