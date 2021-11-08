@@ -19,6 +19,9 @@ title: Team
 ## Past Members
 *Random order*
 
+* Arun Iyer (PhD -> Microsoft Research India)
+* Rahul Gupta (PhD - > Google Research)
+* Shantanu Godbole (PhD -> IBM)
 * Shiv Shankar (RA -> UMass)
 * Aviral Kumar (B.Tech. -> UCB)
 * Sahil Shah (B.Tech. -> Tower Research)
