@@ -16,6 +16,9 @@ Forecasting systems for temporal datasets have mainly focused on predicting the 
  * Streaming Adaptation of Deep Forecasting Models using Adaptive Recurrent Units. \
    In KDD 2019. Prathamesh Deshpande and Sunita Sarawagi. \
    \[[Paper](https://dl.acm.org/doi/10.1145/3292500.3330996)\] \[[Code](https://github.com/pratham16cse/ARU)\] \[[Poster](https://drive.google.com/file/d/1UKTpKDWdWi-551g6sDRTFA7pXcwHPeYe/view)\]
+ * ARMDN: Associative and recurrent mixture density networks for eretail demand forecasting. \
+   In VLDB 2018. Srayanta Mukherjee, Devashish Shankar, Atin Ghosh, Nilam Tathawadekar, Pramod Kompalli, Sunita Sarawagi, Krishnendu Chaudhury. \
+   \[[Paper](https://arxiv.org/pdf/1803.03800.pdf)\]
  
 
 # Collaborators
