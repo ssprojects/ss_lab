@@ -16,7 +16,7 @@ Toward the objective of improving performance on any domain, we conduct research
 
 # Publications
  * Focus on the Common Good: Group Distributional Robustness Follows. \
-   *Under Review*. V Piratla, P Netrapalli, S Sarawagi\
+   In *ICLR 2022*. V Piratla, P Netrapalli, S Sarawagi\
    \[[Paper](https://arxiv.org/pdf/2110.02619.pdf)\]
    <a name="neurips21"/>
  * Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time. \
