@@ -14,19 +14,19 @@ title: Team
 
 ## M.Tech or B.Tech. Students
 * Sandeep Parihar (M.Tech.) 2020-2022
-* Vaidehi Patil (B.Tech. + M.Tech.) 2017-2022
+* [Vaidehi Patil](https://vaidehi99.github.io/) (B.Tech. + M.Tech.) 2017-2022
 
 ## Past Members
 *Random order*
 
-* Arun Iyer (PhD -> Microsoft Research India)
-* Rahul Gupta (PhD - > Google Research)
-* Shantanu Godbole (PhD -> IBM)
-* Shiv Shankar (RA -> UMass)
-* Aviral Kumar (B.Tech. -> UCB)
-* Sahil Shah (B.Tech. -> Tower Research)
-* Siddhant Garg (B.Tech. -> Amazon)
-* Parikshit Bansal (B.Tech. -> MSR India)
-* Kamlesh Marathe (M.Tech. -> Dream11)
-* Anshul Naserey (B.Tech. -> Google Research India)
-* Soumyadeep Thakur (M.Tech. -> Microsoft)
+* Arun Iyer (PhD ➔ Microsoft Research India)
+* Rahul Gupta (PhD ➔ Google Research)
+* Shantanu Godbole (PhD ➔ IBM)
+* Shiv Shankar (RA ➔ UMass)
+* Aviral Kumar (B.Tech. ➔ UCB)
+* Sahil Shah (B.Tech. ➔ Tower Research)
+* Siddhant Garg (B.Tech. ➔ Amazon)
+* Parikshit Bansal (B.Tech. ➔ MSR India)
+* Kamlesh Marathe (M.Tech. ➔ Dream11)
+* Anshul Naserey (B.Tech. ➔ Google Research India)
+* Soumyadeep Thakur (M.Tech. ➔ Microsoft)
