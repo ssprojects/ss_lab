@@ -13,12 +13,12 @@ title: Team
 * [N Lokesh](https://scholar.google.co.in/citations?user=fbu9Tc4AAAAJ&hl=en)
 
 ## M.Tech or B.Tech. Students
-* Sandeep Parihar (M.Tech.) 2020-2022
-* [Vaidehi Patil](https://vaidehi99.github.io/) (B.Tech. + M.Tech.) 2017-2022
 
 ## Past Members
 *Random order*
-
+* [Vaidehi Patil](https://vaidehi99.github.io/) (B.Tech. + M.Tech. ➔ UNC Chapel Hill)
+* Sandeep Parihar (M.Tech. ➔ JioSaavn)
+* Priyesh Jain (M.Tech. ➔ Samsung)
 * Arun Iyer (PhD ➔ Microsoft Research India)
 * Rahul Gupta (PhD ➔ Google Research)
 * Shantanu Godbole (PhD ➔ IBM)
