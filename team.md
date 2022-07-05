@@ -14,7 +14,7 @@ title: Team
 
 ## M.Tech or B.Tech. Students
 
-## Past Members
+## (Recent) Past Members
 *Random order*
 * [Vaidehi Patil](https://vaidehi99.github.io/) (B.Tech. + M.Tech. ➔ UNC Chapel Hill)
 * Sandeep Parihar (M.Tech. ➔ JioSaavn)
