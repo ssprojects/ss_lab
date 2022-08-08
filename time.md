@@ -7,9 +7,9 @@ title: Forecasting aggregates of temporal data
 Forecasting systems for temporal datasets have mainly focused on predicting the values at most granular levels. Recent advancements in deep-learning have made it possible to make multi-step forecasts that capture non-linear interactions betwen history and prediction variables. The forecasts made using state-of-the-art deep-learning models are then used to (i) analyze various statistics in the forecast range, (ii) make downstream decisions based on estimated values and so on. We show that predicting such aggregate variables directly is more efficient and more accurate than computing aggregates from potentially erroneous granular predictions. Further, we also show that establishing consensus between aggregate variables and granular variables helps improving the accuracy of granular predictions. We also show that such models perform more accurately on unseen aggregates.
 
 # Publications
- * Long Range Probabilistic Forecasting in Time-Series using High Order Statistics. \
-   _Under Review_. Prathamesh Deshpande and Sunita Sarawagi. \
-   \[[Paper](https://arxiv.org/pdf/2111.03394.pdf)\] \[[Code](https://github.com/pratham16cse/AggForecaster)\]
+ * Coherent Probabilistic Aggregate Queries on Long-horizon Forecasts. \
+   In IJCAI 2022. Prathamesh Deshpande and Sunita Sarawagi. \
+   \[[Paper](https://www.ijcai.org/proceedings/2022/0404.pdf)\] \[[Code](https://github.com/pratham16cse/AggForecaster)\]
  * Missing Value Imputation on Multidimensional Time Series. \
    In VLDB 2021. Parikshit Bansal, Prathamesh Deshpande, and Sunita Sarawagi. \
    \[[Paper](http://vldb.org/pvldb/vol14/p2533-bansal.pdf)\] \[[Code](https://github.com/pbansal5/contextualised_outlier_detection)\] 
