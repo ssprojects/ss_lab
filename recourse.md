@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Algorithmic Recourse using Causal Inference
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
 ---
 
 # Algorithmic Recourse using Causal Inference
