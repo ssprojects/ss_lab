@@ -6,10 +6,13 @@ title: Team
 **[Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/)**
 
 ## PhD Students
+* [Ashish R Mittal](https://researcher.draco.res.ibm.com/researcher/view.php?person=in-arakeshk)
+* [N Lokesh](https://nlokesh.netlify.app/)
 
-* [N Lokesh](https://scholar.google.co.in/citations?user=fbu9Tc4AAAAJ&hl=en)
-
-## M.Tech or B.Tech. Students
+## M.Tech / B.Tech. Students
+* [Prateek Garg](https://prateekgargx.github.io/) (B.Tech, EE)
+* [Pranava Singhal](https://scholar.google.com/citations?user=7smSwUsAAAAJ&hl=en) (B.Tech, EE)
+* [Ashutosh Sathe](https://ashutoshbsathe.github.io/) (MS, CSE)
 
 ## (Recent) Past Members
 *Random order*
