@@ -3,7 +3,7 @@ layout: default
 title: Text2Code Generation
 ---
 # Goal
-Our goal is to develop sytems for Text-to-SQL generations that are easy to customize to new schema, reliable, and efficient.   A good overall pitch of our work (as of early 2024) can be found in these \[[slides](https://drive.google.com/file/d/1VHRalYFo2H8Nb-clUZhBwULSGP-7wMPe/view?usp=sharing)\].  For more recent work, please the publication list.
+Our goal is to develop sytems for Text-to-SQL generations that are easy to customize to new schema, reliable, and efficient.   A good overall pitch of our work (as of early 2024) can be found in these \[[slides](https://drive.google.com/file/d/1VHRalYFo2H8Nb-clUZhBwULSGP-7wMPe/view?usp=sharing)\].  For more recent work, please see our recent papers.
 
 # Publications
  * Benchmarking and Improving Text-to-SQL Generation under Ambiguity Adithya Bhaskar, Tushar Tomar, Ashutosh Sathe, Sunita Sarawagi In EMNLP 2023.
