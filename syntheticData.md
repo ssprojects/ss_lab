@@ -1,9 +1,7 @@
-
 ---
 layout: default
 title: Synthetic Tabular Data Generation
 ---
-
 
 # Synthetic Tabular Data Generation
 Handling imbalance in class distribution when building a classifier over tabular data has been a problem of long-standing interest. One popular approach is augmenting the training dataset with synthetically generated data. While classical augmentation techniques were limited to linear interpolation of existing minority class examples, recently higher capacity deep generative models are providing greater promise.
