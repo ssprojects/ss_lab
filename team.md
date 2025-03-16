@@ -13,6 +13,8 @@ title: Team
 * [Prateek Garg](https://prateekgargx.github.io/) (B.Tech, EE)
 * [Pranava Singhal](https://scholar.google.com/citations?user=7smSwUsAAAAJ&hl=en) (B.Tech, EE)
 * [Ashutosh Sathe](https://ashutoshbsathe.github.io/) (MS, CSE)
+* [Swetha M](https://swethamagesh.github.io/) (M.Tech, CSE)
+* Annie D'souza (M.Tech CMInDS)
 
 ## (Recent) Past Members
 *Random order*
