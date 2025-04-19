@@ -16,7 +16,7 @@ Some motivating examples of recourse include:
 - **Loan Approval**: For denied applications, the model might recommend actionable steps, such as clearing specific debts, to increase the likelihood of loan approval.
 - **Medical Diagnosis**: In diabetes management, the model could suggest adjustments to insulin dosage to maintain blood glucose within a safe range, helping prevent adverse health conditions.
 
-In this project, our team explores how to build such recourse models, **analyze** their feasibility under realistic assumptions, and design efficient training **algorithms**. We demonstrate the utility of recourse models across various **applications**, ranging from anomaly detection to personalized intervention planning and managing medical conditions.
+In this project, our team explores how to build such recourse models, **analyze** their feasibility under realistic assumptions, and design efficient training **algorithms**. We show **applications** of recourse models in many areas, such as diagnosing root causes of anomalies, planning personalized interventions to achieve desired outcomes, etc.
 
 
 # Publications
