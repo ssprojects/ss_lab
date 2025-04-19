@@ -20,8 +20,8 @@ title: Team
 ## (Recent) Past Members
 *Random order*
 * [Abhijeet Awasthi](https://www.cse.iitb.ac.in/~awasthi/) (PhD ➔ Postdoc with MSRI)
-* [Prathamesh Deshpande](https://pratham16cse.github.io/) (PhD ➔ Applied Researcher at Fujitsu Research India)
-* [Vihari Piratla](https://www.cse.iitb.ac.in/~vihari/) (PhD ➔ Postdoc with Cambridge University)
+* [Prathamesh Deshpande](https://pratham16cse.github.io/) (PhD ➔ Senior Researcher at MSR)
+* [Vihari Piratla](https://www.cse.iitb.ac.in/~vihari/) (PhD ➔ Researcher at Google Deepmind)
 * [Vaidehi Patil](https://vaidehi99.github.io/) (B.Tech. + M.Tech. ➔ UNC Chapel Hill)
 * Sandeep Parihar (M.Tech. ➔ JioSaavn)
 * Priyesh Jain (M.Tech. ➔ Samsung)
