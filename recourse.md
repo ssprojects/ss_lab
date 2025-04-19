@@ -21,22 +21,22 @@ In this project, our team explores how to build such recourse models, **analyze*
 
 # Publications
 * Robust Root Cause Diagnosis using In-Distribution Interventions \
-  In *ICLR 2025*, with Lokesh N, Ashutosh Srivastava, Sunita Sarawagi, Amit Sharma\
+  In *ICLR 2025*, with Lokesh N, Ashutosh Srivastava, Sunita Sarawagi, Amit Sharma
 
 * From Search to Sampling: Generative Models for Robust Algorithmic Recourse \
-  In *ICLR 2025*, with Prateek Garg, Lokesh N, Sunita Sarawagi\
+  In *ICLR 2025*, with Prateek Garg, Lokesh N, Sunita Sarawagi
 
 * Leveraging a Simulator for Learning Causal Representations from Post-Treatment Covariates for CATE \
-  In *TMLR 2025*, with Lokesh N, Pranava Singhal, Avishek Ghosh, Sunita Sarawagi\
+  In *TMLR 2025*, with Lokesh N, Pranava Singhal, Avishek Ghosh, Sunita Sarawagi
 
 * PairNet: Training with Observed Pairs to Estimate Individual Treatment Effect \
-  In *ICML 2024*, with Lokesh N, Pranava Singhal, Avishek Ghosh, Sunita Sarawagi\
+  In *ICML 2024*, with Lokesh N, Pranava Singhal, Avishek Ghosh, Sunita Sarawagi
 
 * Continuous Treatment Effect Estimation Using Gradient Interpolation and Kernel Smoothing \
-  In *AAAI 2024*, with Lokesh N, Akshay Iyer, Abir De, Sunita Sarawagi\
+  In *AAAI 2024*, with Lokesh N, Akshay Iyer, Abir De, Sunita Sarawagi
 
 * Learning Recourse on Instance Environment to Enhance Prediction Accuracy \
-  In *NeurIPS 2022*, with Lokesh N, Guntakanti Sai Koushik, Abir De, Sunita Sarawagi\
+  In *NeurIPS 2022*, with Lokesh N, Guntakanti Sai Koushik, Abir De, Sunita Sarawagi
 
  
 
