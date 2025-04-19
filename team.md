@@ -6,8 +6,9 @@ title: Team
 **[Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/)**
 
 ## PhD Students
+* [Deeksha Koul](https://www.linkedin.com/in/deeksha-koul-b18990205/?originalSubdomain=in)
 * [Ashish R Mittal](https://researcher.draco.res.ibm.com/researcher/view.php?person=in-arakeshk)
-* [N Lokesh](https://nlokesh.netlify.app/)
+* [Lokesh N](https://nlokesh.netlify.app/)
 
 ## M.Tech / B.Tech. Students
 * [Prateek Garg](https://prateekgargx.github.io/) (B.Tech, EE)
