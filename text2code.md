@@ -7,8 +7,11 @@ Our goal is to develop sytems for Text-to-Code generation, specifically Text-to-
 
 # Publications
  * Reliable Answers for Recurring Questions: Boosting Text-to-SQL Accuracy with Template Constrained Decoding. (Under review)
+   
  * The Missing Alignment Link of In-context Learning on Sequences. Harshvardhan Agarwal, Sunita Sarawagi. In ICML 2025
+   
  * Diverse In-Context Example Selection After Decomposing Programs and Aligned Utterances Improves Semantic Parsing. Mayank Kothyari, Sunita Sarawagi, Soumen Chakrabarti, Gaurav Arora, Srujana Merugu.  In NAACL 2025
+   
  * Benchmarking and Improving Text-to-SQL Generation under Ambiguity. Adithya Bhaskar, Tushar Tomar, Ashutosh Sathe, Sunita Sarawagi In EMNLP 2023.
 
  * CRUSH4SQL: Collective Retrieval Using Schema Hallucination For Text2SQL. Mayank Kothyari, Dhruva Dhingra, Sunita Sarawagi, and Soumen Chakrabarti In EMNLP 2023.
